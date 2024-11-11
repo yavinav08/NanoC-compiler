@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include "y.tab.h"
+
 #define NOT_INIT -10000000
 
 /* declaration of useful functions and variables */
