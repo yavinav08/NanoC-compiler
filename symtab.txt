@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------------
+bucket [0]: NULL
+bucket [1]: <VALUE I : { declared: 1, initialized: 1 }> -> NULL
+bucket [2]: NULL
+bucket [3]: NULL
+bucket [4]: NULL
+bucket [5]: <VARIANCE I : { declared: 1, initialized: 1 }> -> <SUM I : { declared: 1, initialized: 1 }> -> NULL
+bucket [6]: NULL
+bucket [7]: NULL
+bucket [8]: NULL
+bucket [9]: <MEAN I : { declared: 1, initialized: 1 }> -> <SUMSQ I : { declared: 1, initialized: 1 }> -> NULL
+bucket [10]: NULL
+bucket [11]: NULL
+bucket [12]: NULL
+bucket [13]: <I I : { declared: 1, initialized: 1 }> -> NULL
+bucket [14]: NULL
+bucket [15]: NULL
+bucket [16]: NULL
+bucket [17]: NULL
+bucket [18]: NULL
+bucket [19]: <STATS V : { declared: 0, initialized: 0 }> -> NULL
+-------------------------------------------------------------------------------------
